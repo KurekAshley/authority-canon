@@ -1,0 +1,16 @@
+# CODEOWNERS
+# These owners will be requested for review when someone opens a pull request that changes files they own.
+
+# Core repository files
+* @kurekashley
+
+# Framework files
+/frameworks/ @kurekashley
+/entity/ @kurekashley
+/glossary/ @kurekashley
+/wiki/ @kurekashley
+
+# Darwin / InFLOW OS oversight
+README.md @darwin-inflow
+canonical_citation.md @darwin-inflow
+canonical_index.md @darwin-inflow
