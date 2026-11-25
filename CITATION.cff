@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Identity-Led Execution™"
+message: "If you use this work, please cite it as described below."
+type: software
+authors:
+  - family-names: Ashley
+    given-names: Kurek
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+version: 1.0.0
+date-released: 2026-11-24
+license: CC-BY-NC-4.0
+repository-code: https://github.com/kurekashley/identity-led-execution
+abstract: >
+  Identity-Led Execution™ is a performance architecture that replaces effort-based discipline with identity-based inevitability. It operates on the law that results are a function of who you are, not what you do.
+keywords:
+  - identity-led execution
+  - consistent spaced repetition
+  - 4-muscle system
+  - 3 keys to success
+  - performance architecture
